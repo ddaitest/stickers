@@ -1,4 +1,6 @@
 # WhatsApp Stickers
+![Send to Dai Ning](https://wa.me/+6586161190/?text=hello-world)
+![Send to Ddai](https://wa.me/+6591291573/?text=hello-world)
 
 ![Works with Android](https://img.shields.io/badge/Works_with-Android-green?style=flat-square)
 ![Works with iOS](https://img.shields.io/badge/Works_with-iOS-blue?style=flat-square)
